@@ -3,8 +3,8 @@
 
 ### Modules
 1. C Programing Essentials
-   I.  C programming structure
-   II. Variables  
+   - C programming structure
+   - Variables  
 3. 
 
 loop
