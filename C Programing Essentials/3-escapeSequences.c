@@ -1,8 +1,8 @@
 /*
 * File Name: escapeSequences.c
 * Author: Kapilan Srikaran
-* date: 28/04/2021
-* description: use escape sequences to print special characters like new line, tab space, quotes etc. within printf( ) statements 
+* Date: 28/04/2021
+* Description: use escape sequences to print special characters like new line, tab space, quotes etc. within printf( ) statements 
 */
 
 #include <stdio.h>
@@ -32,6 +32,6 @@ Commonly used escape sequences are:
  \v (vertical tab)
  \b (backspace)
  \r (carriage return)
- \î (double quotes)
- \í (single quotes)
+ \‚Äù (double quotes)
+ \‚Äô (single quotes)
 */
