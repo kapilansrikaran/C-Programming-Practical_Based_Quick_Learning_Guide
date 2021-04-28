@@ -1,5 +1,5 @@
 1. Brookshear, J.G., Computer Science, an Overview,Benjamin/Cummings, 1994
-	(https://computarium.lcd.lu/library/PDF/BROOKSHEAR_COMPUTER_SCIENCE_9th_edition_2007.pdf)
+	[ j](https://computarium.lcd.lu/library/PDF/BROOKSHEAR_COMPUTER_SCIENCE_9th_edition_2007.pdf)
 	http://www.r-5.org/files/books/computers/overviews/software/Glenn_Brookshear-Computer_Science_An_Overview-EN.pdf
 
 2. C PROGRAMMING. LANGUAGE. Second Edition. Brian W.Kernighan 0 Dennis M. Ritchie. AT&T Bell Laboratories.
