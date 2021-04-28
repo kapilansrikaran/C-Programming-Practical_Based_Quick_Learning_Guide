@@ -1,8 +1,8 @@
 /*
 * File Name: structure.c
 * Author: Kapilan Srikaran
-* date: 27/04/2021
-* description: Structure of a C Program
+* Date: 27/04/2021
+* Description: Structure of a C Program
 */
 
 #include <stdio.h> //preprocessor
