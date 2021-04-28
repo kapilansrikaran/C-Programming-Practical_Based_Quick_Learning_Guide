@@ -4,6 +4,8 @@
 ### Modules
 1. C Programing Essentials
    - C programming structure
+   - printf()
+   - Escape Sequences
    - Variables  
 3. 
 
