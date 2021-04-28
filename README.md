@@ -1,4 +1,4 @@
-# C-Programming-Practical-Based-Learning
+# C-Programming: Practical Based Quick Learning Guide
 #### FULL AND FULL ERROR FREE EXECUTABLE CODE
 
 ### Modules
