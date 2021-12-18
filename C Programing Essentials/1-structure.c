@@ -13,7 +13,7 @@ int main(){ // THIS INT RETURN TYPE
 	//Body of main function
 	int b=5; //local variable
 	printf("Welcome to the C programming");	
-	return 0;
+	return 0; //return 0 means success
 }
 
 
