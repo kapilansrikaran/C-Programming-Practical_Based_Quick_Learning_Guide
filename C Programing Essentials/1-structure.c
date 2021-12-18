@@ -8,7 +8,7 @@
 #include <stdio.h> //preprocessor
 
 int a=5; //global Variable
-int main(){
+int main(){ // THIS INT RETURN TYPE
 	//Every C programming must have one main function in a file 
 	//Body of main function
 	int b=5; //local variable
