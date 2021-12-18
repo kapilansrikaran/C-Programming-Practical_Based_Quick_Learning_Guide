@@ -8,7 +8,7 @@
 #include <stdio.h>
 
 int main(){
-	printf("Personal Details\n"); // [\n] is the Escape Sequences; break and print to the new line of the statement 
+	printf("Personal Details\n"); 			// [\n] is the Escape Sequences; break and print to the new line of the statement 
 	printf("-----------------\n");
 	printf("Name:    Kapilan Srikaran\n");
 	printf("Country: Sri Lanka\n");
