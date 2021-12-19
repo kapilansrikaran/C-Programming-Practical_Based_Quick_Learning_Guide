@@ -28,6 +28,6 @@ Function in C Programming / Modules
 
 
 ```sh
-Calculator Program in C
+Project: Calculator Program in C
 ```
 
